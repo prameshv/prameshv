@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prameshv&label=Profile%20views&color=0e75b6&style=flat" alt="prameshv" /> </p>
 
-- 🌱 I’m currently learning **Python,MongoDB**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Data science**
 
